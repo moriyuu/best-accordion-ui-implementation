@@ -1,0 +1,24 @@
+{
+  "name": "best-accordion-ui-implementation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "parcel index.html"
+  },
+  "author": "moriyuu",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.1.3"
+  },
+  "devDependencies": {
+    "@types/react": "^16.7.21",
+    "@types/react-dom": "^16.0.11",
+    "@types/styled-components": "^4.1.6",
+    "parcel-bundler": "^1.11.0",
+    "typescript": "^3.2.4"
+  }
+}
